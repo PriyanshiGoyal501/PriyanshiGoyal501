@@ -8,10 +8,10 @@
 - 📫 How to reach me **Priyanshigoyal501@gmail.com**
 
 - ⚡ Fun fact **I started coding out of curiosity and ended up loving it more than I expected!**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshigoyal501&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshigoyal501" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshi goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshi goyal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/priyanshi-goyal501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshi goyal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
